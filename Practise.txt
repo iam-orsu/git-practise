@@ -5,7 +5,7 @@ Here You need to commit your names
 
 Vamsi - I want to become Expert HAcker
 Manasa - I want to become a full stack python developer
-Nikitha - want to bacame java developer
+Nikitha - want to become java developer
 Mansoor-Every expert was once a beginner embrace the journey and keep learning
 tharun
 Akhil - Red Teamer and Exploit dev 

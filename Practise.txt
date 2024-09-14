@@ -4,7 +4,7 @@
 Here You need to commit your names
 
 Vamsi - I want to become Expert HAcker
-Manasa
+Manasa - I want to become a full stack python developer
 Nikitha
 Mansoor
 tharun
